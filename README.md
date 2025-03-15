@@ -1,6 +1,6 @@
 # 🐩 Foster-Pet-Matching-System
 
-This project explores pet-related data using **PetFinder API** and **The Dog API**, combining **web scraping** techniques to extract valuable insights. The goal is to analyze pet adoption trends, breed characteristics, and key factors influencing adoption rates.  
+This project is a Foster Pet Matching System that combines API data retrieval, web scraping, and a matching algorithm to provide accurate pet adoption recommendations. It extracts pet listings from the PetFinder API and enriches the dataset using The Dog API. The system also scrapes additional data from pet-related websites, cleans, and structures it for analysis. A matching algorithm is then applied to recommend pets based on user preferences, helping users find the most suitable pets for adoption.
 
 ## 🐶 Features  
 ### 🔹 API Data Retrieval  
